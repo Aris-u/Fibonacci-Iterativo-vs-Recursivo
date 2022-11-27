@@ -42,7 +42,7 @@ public class Main {
                 case 2:
                     System.out.println("Gostaria de executar o algoritmo Iterativo ou Recursivo ?");
                     System.out.println("1) Iterativo");
-                    System.out.println("2) Iterativo");
+                    System.out.println("2) Recursivo");
                     ooption = in.nextInt();
                     if (ooption == 1) {
                         System.out.print("Insira o Ultimo Elemento da Sequencia de Fibonacci: ");
